@@ -170,4 +170,4 @@ Proyek ini bebas digunakan untuk pembelajaran dan non-komersial. Jangan lupa can
 
 ---
 
-> Made with ❤️ by Bay | 2025
+> Made by Bay |**Sky.Project** | Sabtu,19 Juli 2025
