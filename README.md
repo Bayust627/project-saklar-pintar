@@ -55,9 +55,15 @@ Proyek ini adalah sistem saklar pintar yang dirancang dengan mikrokontroler **ES
 ![Wiring Diagram](Wiring.jpg)
 
 ---
-## Program
+## 🔽 Download Firmware
 
-![Program NODEMcu](program.ino)
+Versi terbaru dari program NodeMCU ini tersedia di halaman rilis:
+
+👉 [Unduh di GitHub Releases](https://github.com/Bayust627/project-saklar-pintar/releases/tag/Diagram_%26_Program)
+
+Atau langsung unduh file `.zip`:
+📥 [Program.ino](https://github.com/user-attachments/files/21325234/Program.zip)
+Jangan lupa di ekstrak
 
 ---
 
