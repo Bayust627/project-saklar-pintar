@@ -52,9 +52,7 @@ Proyek ini adalah sistem saklar pintar yang dirancang dengan mikrokontroler **ES
 
 ## 📷 Wiring Diagram
 
-![Wiring Diagram](wiring.jpg)
-
-Silakan ganti nama file `wiring.jpg` sesuai nama file rangkaian kamu jika berbeda.
+![Wiring Diagram](Wiring.jpg)
 
 ---
 
