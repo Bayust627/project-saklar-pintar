@@ -55,6 +55,11 @@ Proyek ini adalah sistem saklar pintar yang dirancang dengan mikrokontroler **ES
 ![Wiring Diagram](Wiring.jpg)
 
 ---
+## Program
+
+![Program NODEMcu](program.ino)
+
+---
 
 ## 🧠 Logika Program
 
